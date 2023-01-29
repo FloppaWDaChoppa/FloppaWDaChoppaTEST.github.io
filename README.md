@@ -1,3 +1,3 @@
-# ISC4U---My-Potfolio
+# ISC4U - My Portfolio
 
 Website: 
